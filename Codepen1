@@ -1,1 +1,7 @@
-http://codepen.io/anon/pen/QbQrVz
+<h1>EyeLocate</h1>
+<p>Drop your <span id="pizza" class="monkey">photo</span> here and we'll tell you where it was taken if it contains <span class="tree">GPS</span> data.</p>
+
+<form>
+  <input type="file">
+  <input type="submit">
+</form>
